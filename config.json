@@ -1,0 +1,20 @@
+{
+
+    "app_id": "826998923930894348",
+
+    "line1" : "1st line of the presence",
+    "line2" : "2st line of the presence",
+
+    "txt_si" : "Text on the small image",
+    "txt_li" : "Text on the large image",
+
+    "l_img" : "large image name",
+    "s_img" : "small image name",
+
+    "button_name1" : "first button name",
+    "button_name2" : "second button name",
+
+    "button_url1" : "https://firstbutton.url",
+    "button_url2" : "https://secondbutton.url"
+
+}
