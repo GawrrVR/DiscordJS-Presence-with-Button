@@ -1,5 +1,5 @@
 # Discord Presence Button
-`Simple JS code using discord-rpc to show presence with customisable button.`
+<Simple JS code using discord-rpc to show presence with customisable button.>
 
 ## How it Work / Tutorial
 - First, you need to have NodeJS | https://nodejs.org/
