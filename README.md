@@ -8,7 +8,8 @@
 - Open a cmd on the script folder. *simply click on the navbar on top of the folder, type "cmd" and enter.*
 - enter the command "node index.js" and you're good !
 
-### config.json
+## Config Help
+**All of the config.json parameters are here.**
 - **app_id**        | You're Application ID. *You can have it on https://discord.com/developers/applications*
 - **line1**         | The second line of your presence. *First Line are the Title of the application you've made on https://discord.com/developers/applications*
 - **line2**         | The third line of your presence.
@@ -20,3 +21,11 @@
 - **button_name1**  | Same as above but for the second button.
 - **button_url2**   | Url to open when click on the first button.
 - **button_url2**   | Same as above but for the second button.
+
+# Tips
+*Click on **your button** don't open the link !*
+
+*Discord can take 5~10 Minutes to properly propage your uploaded image on her network. 
+⚠️ **BEWARE OF NSFW IMAGE, DISCORD DOESN'T LIKE THIS AND U CAN GET YOUR ACCOUNT BAN EASILY & RAPIDLY***
+
+*Special Character doesn't work on button text !*
