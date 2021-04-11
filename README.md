@@ -22,7 +22,7 @@
 - **button_url2**   | Url to open when click on the first button.
 - **button_url2**   | Same as above but for the second button.
 
-# Tips
+### Tips
 *Click on **your button** don't open the link !*
 
 *Discord can take 5~10 Minutes to properly propage your uploaded image on her network. 
