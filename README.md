@@ -1,17 +1,17 @@
 # **Discord Presence Button**
-**Simple JS code using discord-rpc to show presence with customisable button.**
+**Simple JS code using discord-rpc to show presence with customisable buttons.**
 
-## How it Work / Tutorial
+## How it Works / Tutorial
 - First, you need to have NodeJS installed | https://nodejs.org/
-- Download the Repository.
-- Configure the presence in the **config.json** file. *Explanation of the file on bottom if you're not familliar with this.*
+- Download/Fork the Repository.
+- Configure the presence in the **config.json** file. *Explanation of the file is below if you're not familliar with this.*
 - Open a command-prompt in the script folder. *simply click on the navbar on top of the folder, type "cmd" and enter.*
-- enter the command "node index.js" and you're good !
+- Enter the command "node index.js" and you're good !
 
 ## Config Help
 **All of the config.json parameters are here.**
 - **app_id**        | Your Application ID. *You can find this at https://discord.com/developers/applications*
-- **line1**         | The second line of your presence. *First Line are the Title of the application you've made on https://discord.com/developers/applications*
+- **line1**         | The second line of your presence. *First Line is the title of the application you've made at https://discord.com/developers/applications*
 - **line2**         | The third line of your presence.
 - **txt_si**        | Text when you hover your cursor over the Small Image of the presence.
 - **txt_li**        | Same as **txt_si** but for the Large Image text.
