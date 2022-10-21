@@ -5,7 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "discord-rpc": "git+https://github.com/djs/discord-rpc.git",
-    "node-fetch": "^2.6.1",
+    "node-fetch": "^2.6.7",
     "stack": "^0.1.0",
     "ws": "^7.4.4"
   },
